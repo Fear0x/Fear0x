@@ -1,6 +1,14 @@
-## Hi there 👋
+# Halo semua! 
 
+Perkenalkan nama saya **Yeremia Pranata Tjokro**.<br>
+
+Saya seorang **Mahasiswa Freshgraduate** di [Istts](https://istts.ac.id/).<br>
+
+Saya sekarang sedang mengikuti bootcamp dari lintasarta yang berkolaborasi dengan dicoding dan nvidia dalam membentuk AI Engineer.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/yeremiatjokro/)ku ya.
 <!--
+## Hi there 👋
 **Fear0x/Fear0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
